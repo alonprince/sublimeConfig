@@ -1,0 +1,4 @@
+{
+    "ha_style": "background",
+    "file_exts": [".css", ".sass", ".scss", ".less", ".styl", ".html", ".js", ".sublime-settings", ".tmTheme", ".erb", ".haml", ".coffee"]
+}

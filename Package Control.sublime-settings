@@ -1,0 +1,35 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Babel",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSS3",
+		"DocBlockr",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"Jade",
+		"Jade Build",
+		"JsFormat",
+		"LESS",
+		"Markdown Preview",
+		"Meteor Snippets",
+		"Package Control",
+		"Predawn",
+		"ReactJS",
+		"ReactJS Snippets",
+		"Seti_UI",
+		"Stylus",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-coffee",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsxhint",
+		"SublimeTmpl"
+	]
+}
