@@ -16,5 +16,6 @@
 	"show_full_path": true,
 	"tabs_small": true,
 	"theme": "predawn.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"afn_use_keybinding": true
 }
